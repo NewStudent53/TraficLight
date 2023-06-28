@@ -2,6 +2,9 @@
 # Traffic Light with React
 <!-- endhide -->
 
+----->Run npm start 
+(in case it can't be used)---->npm install react-scripts --save and try again.
+
 Sometimes we want to create components with an internal state that changes over time, imagine a traffic light that changes color every 3 seconds, for that we normally will make a variable color and set it to a default color:
 
 ```js
